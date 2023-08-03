@@ -1,0 +1,155 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Argentina",
+    "PaisesLimitrofes": [
+      "Bolivia",
+      "Brasil",
+      "Chile",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "Soldados": 8,
+    "Capital": "Buenos Aires",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Brasil",
+    "PaisesLimitrofes": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Surinam",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "Soldados": 18,
+    "Capital": "Bras\u00EDlia",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Surinam",
+    "PaisesLimitrofes": [
+      "Brasil",
+      "Guyana"
+    ],
+    "Soldados": 1,
+    "Capital": "Paramaribo",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Chile",
+    "PaisesLimitrofes": [
+      "Argentina",
+      "Bolivia",
+      "Peru"
+    ],
+    "Soldados": 1,
+    "Capital": "Santiago",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Ecuador",
+    "PaisesLimitrofes": [
+      "Colombia",
+      "Peru"
+    ],
+    "Soldados": 1,
+    "Capital": "Quito",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Bolivia",
+    "PaisesLimitrofes": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Paraguay",
+      "Peru"
+    ],
+    "Soldados": 1,
+    "Capital": "La Paz",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 7,
+    "Nombre": "Guyana",
+    "PaisesLimitrofes": [
+      "Brasil",
+      "Surinam",
+      "Venezuela"
+    ],
+    "Soldados": 1,
+    "Capital": "George Town",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Peru",
+    "PaisesLimitrofes": [
+      "Bolivia",
+      "Brasil",
+      "Chile",
+      "Colombia",
+      "Ecuador"
+    ],
+    "Soldados": 2,
+    "Capital": "Lima",
+    "duenio": "Leandro"
+  },
+  {
+    "Id": 9,
+    "Nombre": "Colombia",
+    "PaisesLimitrofes": [
+      "Brasil",
+      "Ecuador",
+      "Venezuela",
+      "Peru"
+    ],
+    "Soldados": 6,
+    "Capital": "Bogot\u00E1",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 10,
+    "Nombre": "Paraguay",
+    "PaisesLimitrofes": [
+      "Argentina",
+      "Bolivia",
+      "Brasil"
+    ],
+    "Soldados": 2,
+    "Capital": "Asunci\u00F3n",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 11,
+    "Nombre": "Uruguay",
+    "PaisesLimitrofes": [
+      "Argentina",
+      "Brasil"
+    ],
+    "Soldados": 1,
+    "Capital": "Montevideo",
+    "duenio": "Lucas"
+  },
+  {
+    "Id": 12,
+    "Nombre": "Venezuela",
+    "PaisesLimitrofes": [
+      "Brasil",
+      "Guyana"
+    ],
+    "Soldados": 1,
+    "Capital": "Capito",
+    "duenio": "Lucas"
+  }
+]
